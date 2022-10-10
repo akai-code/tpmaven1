@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.29.0" timestamp="2022-10-10T23:55:04.166">
+<file name="/home/akai/Tp_Maven/tpmaven/src/main/java/fr/esir/omd/ci/FirstPdf.java">
+<violation beginline="40" endline="40" begincolumn="20" endcolumn="25" rule="UnusedLocalVariable" ruleset="Best Practices" package="fr.esir.omd.ci" class="FirstPdf" method="main" variable="Chaine" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedlocalvariable" priority="3">
+Avoid unused local variables such as 'Chaine'.
+</violation>
+<violation beginline="41" endline="41" begincolumn="17" endcolumn="17" rule="UnusedLocalVariable" ruleset="Best Practices" package="fr.esir.omd.ci" class="FirstPdf" method="main" variable="a" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedlocalvariable" priority="3">
+Avoid unused local variables such as 'a'.
+</violation>
+</file>
+</pmd>
